@@ -2,8 +2,16 @@
 title: About me
 ---
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+## winterliu的个人博客
 
-Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+基于 jekyll 的个人博客站点 https://winterliu1020.github.io  分享个人心得、学习总结和一些有趣的事。
 
-Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
+## 关于我
+一名大学生 + Google 粉 + 热爱生活 + 喜欢赚钱
+
+## 联系我
+
+
+
+- GitHub: [winterliu1020](http://github.com/winterliu1020)
+- Gmail: wentaolc1020@gmail.com
