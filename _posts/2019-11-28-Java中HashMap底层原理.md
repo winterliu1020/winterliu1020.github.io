@@ -112,7 +112,8 @@ final V putVal(int hash, K key, V value, boolean onlyIfAbsent, boolean evict){
 ```
 ### 4. get函数的实现
 1. bucket里面第一个节点，直接命中
-2. 如果有冲突，则通过key.equals(k)去查找对应的entry，如果为树，则在树中通过key.equals(k)查找，O(logn);如果是链表，则在链表中通过key.equals(k)查找，O(n).
+2. 如果有冲突，则通过key.equals(k)去查找对应的entry，如果为树，则在树中通过key.equals(k)查找，O(logn);如果是链表，则在链表中通过key.equals(k)查找，O(n).  
+
 ```
 public V get(Object key){
     Node<K,V> e;
@@ -139,7 +140,8 @@ final Node<K,V> getNode(int hash, Object key){
     }
     return null;
 }
-```
+```  
+
 ### 5. hash函数的实现
 在get和put过程中，计算下标时，首先对hashCode进行hash操作获取到hash值，然后通过hash值进一步计算下标。  
 
